@@ -1,0 +1,124 @@
+div{
+    width: 910px;
+    height: 150px;
+   
+    background-color: #00a884;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+    }
+    #one{
+        width: 910px;
+        height: 800px;
+     
+        position: absolute;
+        top: 150px;
+        left: 0px;
+        background-color: rgb(241, 225, 225);
+    }
+    #two{
+        width: 650px;
+        height: 640px;
+        box-shadow: 1px 2px 6px black;
+        /* box-shadow:10px 5px 10px; */
+        position: absolute;
+        top: 60px;
+        left: 120px;
+        background-color: white;
+        border-style: ridge;
+        border: 2px solid whitesmoke;
+        display: flex;
+        color: black;
+       
+ }
+ 
+#four{
+    width: 400px;
+    height: 300px;
+
+    top: 50px;
+    left: 50px;
+    background-color: white;
+
+}
+#five{
+    width: 220px;
+    height: 300px;
+
+    top: 50px;
+    left: 400px;
+    background-color: white;
+
+}
+#six{
+    font-size: 11px;
+    color: black;
+    opacity: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}#seven{
+    font-size: 20px; 
+    color: black; 
+    opacity: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    line-height: 7px;
+    
+}
+#nine{
+    height: 27px;
+    width: 27px;
+    font-weight: 20px;
+    position: absolute;
+    top: 21px;
+    left: 120px;
+  
+
+}
+#ten{
+    position: absolute;
+    top: 25px;
+    left: 158px;
+    color: white;
+    font-size: 9px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100%;
+}
+#eleven{
+    position: absolute;
+    left:300px ;
+   color: black;
+   opacity: 60%;
+    top: 290px;
+    font-size: 20px;
+}
+#a{
+    position: absolute;
+    left:280px ;
+   color: #009de2;
+   
+   top: 330px;
+   font-size: 11px;
+}
+#b{
+    position: absolute;
+    top: 390px;
+    width: 20px;
+    height: 20px;
+    left: 250px;
+}
+#c{
+    background-color: rgb(238, 247, 247);
+    width: 360px;
+    height: 200px;
+    position: absolute;
+    top: 390px;
+    left: 150px;
+}
+#d{
+    position: absolute;
+    top: 0px;
+    width: 320px;
+    height: 190px;
+    left: 10px;
+}
